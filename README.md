@@ -19,7 +19,6 @@
   <a href="#get-it">Get it</a> ·
   <a href="#build-it-yourself">Build it yourself</a> ·
   <a href="docs/tweaks.md">Hack on it</a>
-
 </p>
 
 <p align="center">
